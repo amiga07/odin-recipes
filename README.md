@@ -1,1 +1,2 @@
 # odin-recipes
+This project aims to create some kind of a recipe page on a beginner HTML level. Here you can see the main page and transition to any other availiable one depending on what recipe you're most interested in out of all options.
